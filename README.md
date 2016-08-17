@@ -1,4 +1,3 @@
 # samihaamin.github.io
-Personal Website
 
-I used bootstrap as a starting point and modified HTML/CSS code to fit my needs. See the results [here](http://samihaamin.me). 
+For my personal website, I wanted a clean UI. Using Bootstrap, HTML and CSS, I came up with [this](http://samihaamin.me). 
