@@ -55,7 +55,12 @@ Module.prototype.update = function() {
     range = 0;
   }
 }
-
+function touchMoved() {
+  range = range + 5;
+  if (range > 255) {
+    range = 0;
+  }
+}
 Module.prototype.draw = function() {
   fill(range,240,220);
   ellipse(this.xOff + this.x, this.yOff + this.y, 20, 20);
