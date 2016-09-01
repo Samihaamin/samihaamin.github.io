@@ -1,3 +1,3 @@
 # samihaamin.github.io
 
-For my personal website, I wanted a clean UI. Using Bootstrap, HTML and CSS, I came up with [this](http://samihaamin.me). 
+For my personal website, I wrote HTML and CSS code from scratch and then used the p5.js javascript framework to write the interactive background! Check out how it turned out [here](http://samihaamin.me). 
