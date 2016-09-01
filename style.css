@@ -30,7 +30,8 @@ a:hover {
     z-index: -2;
   }
   
-  @media only screen and (max-device-width: 650px) {
+@media only screen and (max-device-width: 650px) {
   body {
     padding:15px !important;
   }
+}
