@@ -9,9 +9,10 @@ body {
 #info {
   color:black;
   font-size: 22px;
-  font-family: 'Georgia';
-  line-height: 140%;
+  font-family: 'Avenir';
+  line-height: 160%;
   padding:10px;
+  text-align: center;
 }
 a {
   color: black;
