@@ -5,11 +5,16 @@ body {
   padding-left: 200px;
   padding-top: 80px;
 }
-}
 
 #info {
   margin: auto;
   display: block;
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+}
+
+#info {
   color:#8B0000;
   font-size: 16px;
   font-family: 'Avenir';
@@ -18,10 +23,8 @@ body {
   text-align: center;
   border:dotted 2px rgba(153, 0, 0, 0.4);
   background: rgba(255, 253, 253, 0.75);
-  margin-top: 60px;
-  margin-bottom: 60px;
-
 }
+
 a {
   color: #8B0000;
   text-decoration: none;
