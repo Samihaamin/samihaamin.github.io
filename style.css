@@ -1,4 +1,19 @@
+@media (min-device-width: 650px) {
+body {
+  background: transparent;
+  padding-right: 200px;
+  padding-left: 200px;
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
 
+#info {
+  margin: auto;
+  display: block;
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+}
 
 #info {
   color:#8B0000;
